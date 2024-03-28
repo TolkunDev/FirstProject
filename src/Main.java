@@ -28,5 +28,9 @@ public class Main {
     for (int i = 0 ; i<length;i++) {
         System.out.print(array[i] + " ");
     }
+    /*comment*/
+        for (int i = 0 ; i<length;i++) {
+            System.out.print(array[i] + " ");
+        }
     }
 }
